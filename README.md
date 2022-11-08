@@ -1,7 +1,7 @@
 # citi-bike-analytics
 Homework 18
 
-Tableau Workbook: https://public.tableau.com/shared/QM3PXFQ7R?:display_count=n&:origin=viz_share_link
+Tableau Workbook: https://public.tableau.com/app/profile/eric.button/viz/Homework18-CitiBikeAnalysis/Citi-BikeStory
 
 # Phenomenon Analysis
 1. What year were the most citi bike users born?
